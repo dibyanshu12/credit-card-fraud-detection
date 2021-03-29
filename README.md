@@ -1,2 +1,2 @@
 # credit-card-fraud-detection
-credit card fraud detection using SOM and ANN
+In this project,I have used Self Organizing map as a deep learning model to identify frauds in the banking system.
